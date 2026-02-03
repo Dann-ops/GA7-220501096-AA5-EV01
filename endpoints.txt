@@ -1,0 +1,16 @@
+LISTADO DE ENDPOINTS DE LA API - GA7-220501096-AA5-EV02
+Aprendiz: Dann Gutierrez
+
+He desarrollado y configurado los siguientes puntos de acceso (endpoints) para mi servicio web:
+
+1. RUTA DE REGISTRO
+   - Descripción: Permite crear un nuevo usuario en el sistema.
+   - Método: POST
+   - URL: http://127.0.0.1:5000/registro
+   - Formato de envío: JSON
+
+2. RUTA DE INICIO DE SESIÓN (LOGIN)
+   - Descripción: Valida las credenciales del usuario para permitir el acceso.
+   - Método: POST
+   - URL: http://127.0.0.1:5000/login
+   - Formato de envío: JSON
